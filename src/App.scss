@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  height: 90vh;
+  background-color: #242424;
+  color: rgba(255, 255, 255, 0.87);
+
+  font-family: sans-serif;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  #root{
+    //display: flex;
+    //flex-direction: column;
+  }
+
+}
+
